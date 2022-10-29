@@ -14,7 +14,7 @@ module bcd_counter(
         end
         else begin
             if (!i_toggle) begin
-                if (state < 4'b1001) begin
+                if (state < 9) begin
                     state <= state + 4'b1;
                 end 
                 else begin

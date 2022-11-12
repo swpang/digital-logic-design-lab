@@ -1,0 +1,232 @@
+$date
+	Sat Nov 12 19:21:17 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module TLC_tb $end
+$var wire 1 ! HY $end
+$var wire 1 " HR $end
+$var wire 1 # HL $end
+$var wire 1 $ HG $end
+$var wire 1 % FY $end
+$var wire 1 & FR $end
+$var wire 1 ' FL $end
+$var reg 1 ( FS $end
+$var reg 1 ) HS $end
+$var reg 1 * clk $end
+$var reg 1 + rstn $end
+$scope module TLC $end
+$var wire 1 ( FS $end
+$var wire 1 ) HS $end
+$var wire 1 * clk $end
+$var wire 1 + rstn $end
+$var wire 1 ! HY $end
+$var wire 1 " HR $end
+$var wire 1 # HL $end
+$var wire 1 $ HG $end
+$var wire 1 % FY $end
+$var wire 1 & FR $end
+$var wire 1 ' FL $end
+$var reg 7 , lights [6:0] $end
+$var reg 1 - select $end
+$var reg 3 . state [2:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b0 .
+1-
+b10100 ,
+1+
+1*
+0)
+0(
+0'
+1&
+0%
+1$
+0#
+0"
+0!
+$end
+#2500
+0*
+#3000
+0+
+#5000
+1*
+#7000
+1)
+#7500
+0*
+#10000
+1!
+0$
+b100100 ,
+b1 .
+0-
+1*
+#12500
+0*
+#13000
+1(
+#15000
+0!
+1#
+b1100 ,
+b10 .
+1*
+#17500
+0*
+#20000
+0)
+1!
+0#
+b100100 ,
+b101 .
+1*
+#22500
+0*
+#25000
+1"
+0!
+0&
+1'
+b1000001 ,
+b11 .
+1*
+#27500
+0*
+#30000
+0(
+1%
+0'
+b1000010 ,
+b100 .
+1*
+#32500
+0*
+#35000
+0"
+1$
+1&
+0%
+b10100 ,
+b0 .
+1*
+#37500
+0*
+#40000
+1*
+#42500
+0*
+#43000
+1(
+#45000
+1!
+0$
+b100100 ,
+b1 .
+1-
+1*
+#46000
+1)
+#47500
+0*
+#50000
+1"
+0!
+0&
+1'
+b1000001 ,
+0-
+b11 .
+1*
+#52500
+0*
+#55000
+0(
+1%
+0'
+b1000010 ,
+b100 .
+1*
+#57500
+0*
+#60000
+0"
+1$
+1&
+0%
+b10100 ,
+b0 .
+1*
+#62500
+0*
+#65000
+1!
+0$
+b100100 ,
+b1 .
+1*
+#67500
+0*
+#70000
+0!
+1#
+b1100 ,
+b10 .
+1*
+#72500
+0*
+#75000
+0)
+1!
+0#
+b100100 ,
+b101 .
+1-
+1*
+#77000
+1(
+1)
+#77500
+0*
+#80000
+0!
+1$
+b10100 ,
+b0 .
+1*
+#82500
+0*
+#85000
+1!
+0$
+b100100 ,
+b1 .
+0-
+1*
+#87500
+0*
+#90000
+0!
+1#
+b1100 ,
+b10 .
+1*
+#92500
+0*
+#95000
+0)
+1!
+0#
+b100100 ,
+b101 .
+1*
+#97000
